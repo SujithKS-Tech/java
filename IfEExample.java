@@ -1,4 +1,4 @@
-public class IfExample {
+public class IfEExample {
     public static void main(String[] args) {
 
         int age=20;
